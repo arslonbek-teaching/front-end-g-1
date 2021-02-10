@@ -1,0 +1,24 @@
+------- Lesson - 3  ------- (8.02.21) 👍🏻
+#1 -> head tag 👍🏻
+#2 -> Hyperlinks 👍🏻
+#3 -> Entities 👍🏻
+#4 -> Images 🍫
+
+------- Lesson - 4  ------- (10.02.21)
+#1 -> Video and Audio
+#2 -> Lists
+     (ul - un-ordered list)
+     (ol - ordered list)
+     (dl - description list)
+#3 -> Tables
+#4 -> Containers
+#5 -> Semantic elements
+             (Generic)
+                 1. div
+                 2. span
+             (Semantic)
+                 1. article
+                 2. figure
+                 3. mark
+                 4. time
+#6 -> Structuring a Web Page
