@@ -1,19 +1,20 @@
 ---------  Lesson - 6  --------- (15.02.21)
 #1 --> Pseudo-class Selectors
-       ✅ :nth-child
-       ✅ :first-child
-       ✅ :first-of-type
-       ✅ :visited
-       ✅ :hover
-       ✅ :active
-       ✅ :focus
+       ✅ :nth-child 👍🏻
+       ✅ :first-child 👍🏻
+       ✅ :first-of-type 👍🏻
+       ✅ :visited 👍🏻
+       ✅ :hover 👍🏻
+       ✅ :active 👍🏻
+       ✅ :focus 👍🏻
+       ✅ :not 👍🏻
 #2 --> Pseudo-elements Selectors
-       ✅ ::first-letter
-       ✅ ::first-line
-       ✅ ::selection
-       ✅ ::after
-       ✅ ::before
-#3 --> Inheritance styles
+       ✅ ::first-letter 👍🏻
+       ✅ ::first-line 👍🏻
+       ✅ ::selection 👍🏻
+       ✅ ::before 👍🏻
+       ✅ ::after 👍🏻
+#3 --> Inheritance styles 👍🏻
 #5 --> Install extention "Color Highlight"
 #4 --> Colors
        ✅ Named colors
