@@ -1,0 +1,19 @@
+---------  Lesson - 7  --------- (17.02.21)
+#1 --> Install extention "Color Highlight"
+#2 --> Colors
+       ✅ Named colors
+       ✅ RGB (RED, GREEN, BLUE)
+       ✅ HSL
+       ✅ Hexadecimal
+#3 --> Gradients
+       ✅ linear-gradient
+       ✅ radial-gradient
+       🔗 https://cssgradient.io/
+#4 --> Borders
+       ✅ border-style
+       ✅ border-width
+       ✅ border-color
+#5 --> Shadows
+       ✅ box-shadow
+       ✅ text-shadow
+
