@@ -1,0 +1,16 @@
+:root {
+  font-size: 16px;
+}
+div {
+  padding: 10px;
+  background: green;
+}
+p {
+  padding: 2rem;
+  margin: 0;
+  width: 200px;
+  height: 200px;
+  background: red;
+  border: 10px solid greenyellow;
+  box-sizing: border-box;
+}
