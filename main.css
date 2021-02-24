@@ -1,0 +1,23 @@
+:root {
+  font-size: 20px;
+}
+body {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+.box {
+  width: 50%;
+  height: 50%;
+  background: gold;
+  justify-content: space-between;
+}
+
+.inner {
+  width: 50%;
+  height: 50%;
+
+  background: red;
+  padding: 2rem;
+}
