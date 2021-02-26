@@ -1,0 +1,20 @@
+----------  👋🏻 Lesson - 10 👋🏻  --------- (26.02.21)
+#1 -->  Positioning
+        ✅ Relative
+        ✅ Absolute
+        ✅ Fixed
+        ✅ Sticky
+#2 --> Floating Elements
+#3 --> FlexBox -> Flexible Box Layout
+        ✅ display
+        ✅ flex-direction
+        ✅ justify-content (x-axis)
+        ✅ align-items (y-axis)
+        ✅ align-content
+        ✅ flex-wrap
+        ✅ align-self
+
+
+
+
+
