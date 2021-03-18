@@ -1,0 +1,13 @@
+@import "./styles/fonts.css";
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #efed40;
+}
+
+h1 {
+  font-family: "Kanit", sans-serif;
+  font-size: 80px;
+}
