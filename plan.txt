@@ -1,0 +1,20 @@
+---------- Lesson - 14 ----------(19.03.21)
+#1 --> CSS Framework
+#2 --> Text Fields
+         ✅ type
+         ✅ placeholder
+         ✅ value
+         ✅ readonly
+         ✅ disabled
+         ✅ autofocus
+         ✅ maxlength
+         ✅ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/datetime
+#3 --> DataList
+#4 --> Drop-down Lists
+#5 --> Check Boxes
+#6 --> Radio Buttons
+#7 --> Sliders
+#8 --> File Input
+         ✅ accept
+#9 --> Data Validation
+#19 -->
