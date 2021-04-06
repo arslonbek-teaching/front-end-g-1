@@ -1,23 +1,25 @@
----------- Lesson-16 ----------(31.03.21)
-#1 --> Reusable animation
+---------- Lesson-16 ----------(06.04.21)
+#1 => Reusable animation
          🔗 https://animate.style
 
------------ Writing Clean CSS -----------
-#2 --> Case Styles
+----------- Writing Clean CSS Code-----------
+#2 => Case Styles
        ✅ Camel-Case
        ✅ Paskal-Case
        ✅ Snake-Case
-       ✅ Kebab-Case
+       ✅ Kebab-Case : https://di-cdn.sfo2.digitaloceanspaces.com/product_images/767/533_b927f597841955c7eef4819dfbc4ec98.jpg
        ✅ https://betterprogramming.pub/string-case-styles-camel-pascal-snake-and-kebab-case-981407998841
-#3 --> BEM (Block Element Modifier)
+
+#3 => BEM (Block Element Modifier)
        Example
 
-#4 --> Git
+#4 => Git
        ✅ Installing git
        ✅ Create repository
        ✅ Add Remote
        ✅ Commited Codes
        ✅ Pushed Codes
+       (git error: https://stackoverflow.com/questions/39794493/i-get-an-error-when-i-type-git-commit-m-my-message)
 
-#5 --> Deploying Our Web Apps
+#5 => Deploying Our Web Apps
        Login Netlify with github
