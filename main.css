@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background-color: #efed40;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+h1 {
+  font-family: monospace;
+  font-size: 80px;
+}

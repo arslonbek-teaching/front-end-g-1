@@ -1,0 +1,36 @@
+-------------- Lesson - 18 --------------(21.04.21)
+
+     ================ Basics ================
+#1 -> Variables
+#2 -> Constants
+#3 -> Primative types
+        ✅ string
+        ✅ number
+        ✅ boolean
+        ✅ null
+        ✅ undefined
+#4 -> Reference types
+        ✅ Object
+        ✅ Array
+        ✅ Function
+#5 -> Object type
+        ✅ Dot Notation
+        ✅ Bracket Notation
+#6 -> Array type
+#7 -> Functions
+#8 -> Types of Functions
+
+============== Operators ==============
+#9 -> Arithmetic Operators (+,-,/,*,%,**)
+        ✅ Increment
+        ✅ Decrement
+#10 -> Assignment Operators (=)
+#11 -> Comparison Operators
+        ✅ Relational  (>,<,>=,<=)
+        ✅ Equality  (==,===)
+#12 -> Ternary Operator ( condetion ? trued : falsed)
+#13 -> Logical Operator
+        ✅ && -> And
+        ✅ || -> Or
+        ✅ !  -> Not
+#14 -> Logical Operators with Non-boolean
