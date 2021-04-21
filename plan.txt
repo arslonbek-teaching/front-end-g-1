@@ -1,0 +1,25 @@
+-------------- Lesson - 19 --------------(23.04.21)
+
+   ============== Operators ==============
+#1 -> Arithmetic Operators (+,-,/,*,%,**)
+        ✅ Increment
+        ✅ Decrement
+#2 -> Assignment Operators (=)
+#3 -> Comparison Operators
+        ✅ Relational  (>,<,>=,<=)
+        ✅ Equality  (==,===)
+#4 -> Ternary Operator ( condetion ? trued : falsed)
+#5 -> Logical Operator
+        ✅ && -> And
+        ✅ || -> Or
+        ✅ !  -> Not
+#6 -> Logical Operators with Non-boolean
+
+   ========== Control Flow ==========
+#7 -> If...Else
+#8 -> Switch...Case
+
+   ========== Loops ==========
+#9 -> For
+#10 -> While
+#11 -> Do While
