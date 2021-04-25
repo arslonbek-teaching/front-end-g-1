@@ -8,6 +8,7 @@
 #4 -> While
 #5 -> Do While
 #6 -> Infinite Loops
+#7 -> Exercise uchga bolindigan sonlar soni
 #7 -> For-in
 #8 -> For-of
 #9 -> Break and Continue
