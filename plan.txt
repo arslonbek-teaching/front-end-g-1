@@ -1,0 +1,16 @@
+---------------- Lesson-22 ----------------(05.05.21)
+#1 -> Array methods
+       ✅ concat
+       ✅ filter
+       ✅ find
+       ✅ findIndex
+       ✅ forEach
+       ✅ map
+       ✅ reduce
+       ✅ pop || push
+       ✅ shift || unshift
+#2 -> Exercise filteredNumbers()
+#2 -> Exercise cartToPerson()
+#4 -> Algorithm sites
+       ✅ https://leetcode.com/
+       ✅ https://codingbat.com/
