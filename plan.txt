@@ -1,0 +1,21 @@
+--------------Lesson-23--------------(19.05.21)
+#1 -> Array methods
+       ✅ pop || push
+       ✅ shift || unshift
+       ✅ find
+       ✅ findIndex
+       ✅ forEach
+       ✅ map
+       ✅ reduce
+#2 -> String methods
+       ✅ charAt
+       ✅ concat
+       ✅ endsWith | startsWith
+       ✅ repeat
+       ✅ indexOf
+       ✅ includes
+#3 -> Number methods
+       ✅ parseInt
+       ✅ parseFloat
+       ✅ isNaN
+       ✅ toFixed
